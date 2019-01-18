@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  lynn
+
+  Created by mac on 2019/1/16.
+  Copyright © 2019 mac. All rights reserved.
+*/
+"homePage" = "Home Page";
+"userInfo" = "User Info";
+"done" = "Done";
+"label1" = "this is from Done Button";
+"clickToBack" = "Click here to go Back";
+"tableCellClick" = "You clicked one cell...";
+"wallet" = "Wallet";
+"fav" = "Favorite";
+"pic" = "Pics";
+"card" = "Crads";
+"exp" = "表情";
+"settings" = "Settings";

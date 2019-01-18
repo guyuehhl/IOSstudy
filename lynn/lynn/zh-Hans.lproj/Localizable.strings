@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  lynn
+
+  Created by mac on 2019/1/16.
+  Copyright © 2019 mac. All rights reserved.
+*/
+"homePage" = "主页";
+"userInfo" = "我";
+"done" = "完成";
+"label1" = " 这是从完成按钮进来的";
+"clickToBack" = "点击返回";
+"tableCellClick" = "你点了啥";
+"wallet" = "钱包";
+"fav" = "收藏";
+"pic" = "相册";
+"card" = "卡包";
+"exp" = "表情";
+"settings" = "设置";
